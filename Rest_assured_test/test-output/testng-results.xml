@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-01T12:46:51 IDT" name="Default suite" finished-at="2024-09-01T12:46:56 IDT" duration-ms="4609">
+    <groups>
+    </groups>
+    <test started-at="2024-09-01T12:46:51 IDT" name="Default test" finished-at="2024-09-01T12:46:56 IDT" duration-ms="4609">
+      <class name="RestAssured.TypicodeTest">
+        <test-method signature="addABook()[pri:0, instance:RestAssured.TypicodeTest@4f209819]" started-at="2024-09-01T12:46:51 IDT" name="addABook" finished-at="2024-09-01T12:46:53 IDT" duration-ms="2033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addABook -->
+        <test-method signature="deleteBook()[pri:0, instance:RestAssured.TypicodeTest@4f209819]" started-at="2024-09-01T12:46:53 IDT" name="deleteBook" finished-at="2024-09-01T12:46:54 IDT" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBook -->
+        <test-method signature="getABookByID()[pri:0, instance:RestAssured.TypicodeTest@4f209819]" started-at="2024-09-01T12:46:54 IDT" name="getABookByID" finished-at="2024-09-01T12:46:55 IDT" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getABookByID -->
+        <test-method signature="getAllBooks()[pri:0, instance:RestAssured.TypicodeTest@4f209819]" started-at="2024-09-01T12:46:55 IDT" name="getAllBooks" finished-at="2024-09-01T12:46:55 IDT" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllBooks -->
+        <test-method signature="getBookWithInvalidID()[pri:0, instance:RestAssured.TypicodeTest@4f209819]" started-at="2024-09-01T12:46:55 IDT" name="getBookWithInvalidID" finished-at="2024-09-01T12:46:56 IDT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookWithInvalidID -->
+        <test-method signature="updateBook()[pri:0, instance:RestAssured.TypicodeTest@4f209819]" started-at="2024-09-01T12:46:56 IDT" name="updateBook" finished-at="2024-09-01T12:46:56 IDT" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBook -->
+      </class> <!-- RestAssured.TypicodeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
